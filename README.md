@@ -1,5 +1,15 @@
 # Actividad 2. Redes neuronales convolucionales
 
+<!-- academic-catalog:start -->
+**UNIR · Máster en Inteligencia Artificial · Redes de neuronas**
+
+Clasificación de imágenes de animales y vehículos con redes convolucionales y experimentación con modelos en Keras.
+
+**Tecnologías:** Python, TensorFlow, Keras, CNN.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivos
 
 En esta actividad vamos a trabajar con Convolutional Neural Networks (CNN) para resolver un problema de clasificación de imágenes. En particular, vamos a clasificar utilizar el conocido dataset CIFAR-10.
